@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed romana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed romana" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed romana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed romana" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamedromana207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedromana207" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-romana-78a654295/overlay/about-this-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-romana-78a654295/overlay/about-this-profile/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1a63qrniuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1a63qrniuz/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mohamed_romana207?igsh=mtkzbnhpyme2em5zeq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohamed_romana207?igsh=mtkzbnhpyme2em5zeq==" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
