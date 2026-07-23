@@ -1,70 +1,170 @@
-<h1 align="center">Hello, I'm Mohamed Romana, Flutter Developer</h1>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="60" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="60" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="postman logo"  />
+
+# 👋 Hi, I'm Mohamed Romana
+
+### 🚀 Flutter Developer | Mobile App Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&center=true&vCenter=true&random=false&width=900&lines=Flutter+Developer;Cross+Platform+Mobile+Developer;Firebase+%7C+REST+API+%7C+Socket.IO;Clean+Architecture+Enthusiast;Android+%26+iOS+Developer;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MohamedRomana&style=for-the-badge&color=blueviolet"/>
+
 </div>
 
-###
+---
+
+# 💫 About Me
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+### 👨‍💻 Mobile Developer
+
+- 📱 Flutter Developer
+- ❤️ Love building beautiful UI
+- 🔥 Firebase Expert
+- 🌍 REST APIs
+- ⚡ Bloc / Cubit
+- 📍 Google Maps
+- 💬 Socket.IO
+- 🔔 Push Notifications
+- 🍎 App Store Deployment
+- 🤖 AI Integration
+- 🚀 Clean Architecture
+- 📈 Performance Optimization
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.instagram.com/mohamed_romana207?igsh=MTkzbnhpYmE2em5zeQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=mohamed_romana207&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/1A63QRNiuz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=Mohamed%20Romana&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-romana-78a654295/overlay/about-this-profile/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Mohamed%20Romana&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,xd,apple,postman,sqlite,linux"/>
+
 </div>
 
-###
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedRomana&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
- <img src="https://github-profile-trophy.vercel.app?username=MohamedRomana&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<a href="https://www.linkedin.com/in/mohamed-romana-78a654295">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/mohamed_romana207">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.facebook.com/share/1A63QRNiuz/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://github.com/MohamedRomana">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
+---
 
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 📱 Plan A Visa | Visa Management App |
+| 🚚 Tow Truck | Roadside Assistance Platform |
+| 🛍 Aswaq | Marketing Platform |
+| 🧒 Hemtna | Children Therapy App |
+| 🚗 Saudi Transport | Ministry of Transport Application |
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedRomana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedRomana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedRomana&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRomana&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/040e4ace967f8845ef42a67869410b485d2060321a40939550b7652b9aea6bd5/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067"  />
+---
 
+# 🔥 GitHub Streak
 
-###
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=MohamedRomana&theme=tokyonight&hide_border=true"/>
 
-![snake gif](https://github.com/MohamedRomana/MohamedRomana/blob/output/github-snake-dark.svg)
+</div>
 
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRomana&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedRomana&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 💻 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedRomana&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💬 Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/MohamedRomana/MohamedRomana/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+# ❤️ Support
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to Star my repositories ⭐
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,100:00D4FF&section=footer"/>
+
+</div>
