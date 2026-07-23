@@ -146,7 +146,20 @@ Open To:
 
 ## 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,apple"/>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="55"/>
+<img width="15"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="55"/>
+
+</div>
 
 <br><br>
 
