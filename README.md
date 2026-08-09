@@ -1,170 +1,248 @@
-<div align="center">
+# 👋 Hey, I'm Mohamed Romana
 
-# 👋 Hi, I'm Mohamed Romana
+### 🚀 Flutter Developer • Mobile App Engineer • UI Enthusiast
 
-### 🚀 Flutter Developer | Mobile App Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Engineer;Clean+Architecture+Enthusiast;Firebase+%7C+REST+APIs+%7C+Socket.IO;Building+Beautiful+Mobile+Experiences" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&center=true&vCenter=true&random=false&width=900&lines=Flutter+Developer;Cross+Platform+Mobile+Developer;Firebase+%7C+REST+API+%7C+Socket.IO;Clean+Architecture+Enthusiast;Android+%26+iOS+Developer;Always+Learning+New+Technologies" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=MohamedRomana&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-### 👨‍💻 Mobile Developer
-
-- 📱 Flutter Developer
-- ❤️ Love building beautiful UI
-- 🔥 Firebase Expert
-- 🌍 REST APIs
-- ⚡ Bloc / Cubit
-- 📍 Google Maps
-- 💬 Socket.IO
-- 🔔 Push Notifications
-- 🍎 App Store Deployment
-- 🤖 AI Integration
-- 🚀 Clean Architecture
-- 📈 Performance Optimization
+<p align="center">
+  <a href="https://github.com/MohamedRomana">
+    <img src="https://img.shields.io/github/followers/MohamedRomana?label=Followers&style=for-the-badge&color=181717" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MohamedRomana&style=for-the-badge&color=42A5F5" />
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-<div align="center">
+I'm a **Flutter Developer** passionate about building modern, scalable, and high-performance mobile applications.
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,xd,apple,postman,sqlite,linux"/>
+I enjoy transforming ideas and designs into **smooth, beautiful, and production-ready mobile experiences** with a strong focus on architecture, performance, and user experience.
 
-</div>
+* 📱 Building cross-platform mobile applications with **Flutter & Dart**
+* 🎨 Creating modern and responsive **UI/UX**
+* 🏗️ Applying **Clean Architecture & scalable project structures**
+* ⚡ Managing application state with **Bloc / Cubit**
+* 🔥 Working with **Firebase & real-time services**
+* 🌐 Integrating **RESTful APIs**
+* 💬 Building real-time features using **Socket.IO**
+* 📍 Implementing location-based features with **Google Maps**
+* 🔔 Integrating **Push Notifications**
+* 🍎 Handling **iOS App Store deployment**
+* 🤖 Exploring and integrating **AI-powered features**
+* 🚀 Improving application **performance, stability, and scalability**
 
 ---
 
-# 🌐 Connect With Me
+# 🧰 Tech Stack
 
-<div align="center">
+### 📱 Mobile Development
 
-<a href="https://www.linkedin.com/in/mohamed-romana-78a654295">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-<a href="https://www.instagram.com/mohamed_romana207">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
+### 🧠 Architecture & State Management
 
-<a href="https://www.facebook.com/share/1A63QRNiuz/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=dart" />
+</p>
 
-<a href="https://github.com/MohamedRomana">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+`Clean Architecture` • `Bloc` • `Cubit` • `MVVM` • `Repository Pattern` • `Dependency Injection`
 
-</div>
+### 🔥 Backend & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+`Firebase Authentication` • `Cloud Firestore` • `Firebase Storage` • `Firebase Messaging` • `REST APIs` • `Socket.IO`
+
+### 🛠️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman,figma" />
+</p>
+
+### 🗺️ Other Technologies
+
+`Google Maps` • `Geolocation` • `Push Notifications` • `Deep Linking` • `Localization` • `Responsive UI` • `API Integration` • `Real-time Communication`
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 📱 Plan A Visa | Visa Management App |
-| 🚚 Tow Truck | Roadside Assistance Platform |
-| 🛍 Aswaq | Marketing Platform |
-| 🧒 Hemtna | Children Therapy App |
-| 🚗 Saudi Transport | Ministry of Transport Application |
+### 🪪 Plan A — Visa Management Platform
+
+A modern mobile application designed to simplify visa-related services and management.
+
+**Tech:** Flutter • Dart • REST APIs • Firebase • Bloc/Cubit
 
 ---
 
-# 📊 GitHub Stats
+### 🚚 Tow Truck — Roadside Assistance Platform
 
-<div align="center">
+A complete roadside assistance ecosystem connecting customers with tow truck drivers.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedRomana&show_icons=true&theme=tokyonight&hide_border=true"/>
+**Features include:**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRomana&layout=compact&theme=tokyonight&hide_border=true"/>
+* 📍 Real-time location tracking
+* 🗺️ Google Maps integration
+* 🚚 Driver management
+* 💬 Real-time chat
+* 💰 Service & pricing management
+* 🔔 Push notifications
+* ⚡ Real-time communication with Socket.IO
 
-</div>
+**Tech:** Flutter • Bloc/Cubit • Google Maps • Socket.IO • REST APIs • Firebase
+
+---
+
+### 🛍️ Aswaq — Marketing Platform
+
+A mobile marketing platform focused on connecting users with products, services, and promotional content.
+
+**Tech:** Flutter • Firebase • REST APIs • Bloc/Cubit
+
+---
+
+### 🧒 Hemtna — Children Therapy Platform
+
+A specialized platform connecting children and doctors while providing tools for therapy management and communication.
+
+**Tech:** Flutter • Firebase • REST APIs • Socket.IO • Notifications
+
+---
+
+### 🚗 Saudi Transport
+
+A mobile application developed around transportation and vehicle-related services.
+
+**Tech:** Flutter • REST APIs • Google Maps • Firebase • Clean Architecture
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedRomana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRomana&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MohamedRomana&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohamedRomana&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRomana&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRomana&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedRomana&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedRomana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
 
 ---
 
-# 💻 Coding Activity
+# 💻 What I Build
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedRomana&theme=tokyonight"/>
-
-</div>
+```text
+Mobile Applications
+        │
+        ├── 🎨 Modern UI / UX
+        │
+        ├── 🏗️ Clean Architecture
+        │
+        ├── ⚡ Bloc / Cubit
+        │
+        ├── 🔥 Firebase
+        │
+        ├── 🌐 REST APIs
+        │
+        ├── 💬 Socket.IO
+        │
+        ├── 📍 Google Maps
+        │
+        ├── 🔔 Push Notifications
+        │
+        ├── 🤖 AI Integration
+        │
+        └── 🚀 App Store Deployment
+```
 
 ---
 
-# 💬 Dev Quote
+# 🌱 Currently Exploring
 
-<div align="center">
+* 🤖 AI Integration in Mobile Applications
+* 🏗️ Advanced Flutter Architecture
+* ⚡ Performance Optimization
+* ☁️ Scalable Backend Integration
+* 🔄 Real-time Applications
+* 🎨 Advanced Flutter Animations
+* 🚀 Production-level Mobile Development
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+---
 
-</div>
+# 💬 Developer Philosophy
+
+> **"Great apps aren't just built to work — they're built to feel right."**
+
+I believe a great mobile application should be:
+
+**Fast ⚡ • Beautiful 🎨 • Scalable 🏗️ • Reliable 🔥 • Easy to Maintain 🧩**
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://github.com/MohamedRomana/MohamedRomana/blob/output/github-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohamedRomana/MohamedRomana/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-# ❤️ Support
+# 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
 
-### ⭐ If you like my work, don't forget to Star my repositories ⭐
+<a href="https://github.com/MohamedRomana">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,100:00D4FF&section=footer"/>
+### ⭐ If you find my projects useful, consider giving them a star!
 
-</div>
+### 🚀 Thanks for visiting my profile!
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=100&section=footer"/>
+</p>
