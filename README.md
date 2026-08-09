@@ -1,248 +1,167 @@
-# 👋 Hey, I'm Mohamed Romana
+# 👋 Mohamed Romana
 
-### 🚀 Flutter Developer • Mobile App Engineer • UI Enthusiast
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Engineer;Clean+Architecture+Enthusiast;Firebase+%7C+REST+APIs+%7C+Socket.IO;Building+Beautiful+Mobile+Experiences" />
-</p>
+### Flutter Developer & Mobile App Engineer
 
 <p align="center">
-  <a href="https://github.com/MohamedRomana">
-    <img src="https://img.shields.io/github/followers/MohamedRomana?label=Followers&style=for-the-badge&color=181717" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MohamedRomana&style=for-the-badge&color=42A5F5" />
+  <strong>Building beautiful, scalable and high-performance mobile applications.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MohamedRomana">GitHub</a>
+  &nbsp; • &nbsp;
+  <a href="#">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:your-email@example.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Flutter Developer** passionate about building modern, scalable, and high-performance mobile applications.
+I'm a **Flutter Developer** passionate about turning ideas and designs into polished mobile experiences.
 
-I enjoy transforming ideas and designs into **smooth, beautiful, and production-ready mobile experiences** with a strong focus on architecture, performance, and user experience.
-
-* 📱 Building cross-platform mobile applications with **Flutter & Dart**
-* 🎨 Creating modern and responsive **UI/UX**
-* 🏗️ Applying **Clean Architecture & scalable project structures**
-* ⚡ Managing application state with **Bloc / Cubit**
-* 🔥 Working with **Firebase & real-time services**
-* 🌐 Integrating **RESTful APIs**
-* 💬 Building real-time features using **Socket.IO**
-* 📍 Implementing location-based features with **Google Maps**
-* 🔔 Integrating **Push Notifications**
-* 🍎 Handling **iOS App Store deployment**
-* 🤖 Exploring and integrating **AI-powered features**
-* 🚀 Improving application **performance, stability, and scalability**
+I focus on building applications that are **clean, scalable, responsive and production-ready**, with strong attention to UI/UX, architecture and performance.
 
 ---
 
-# 🧰 Tech Stack
+## What I Do
 
-### 📱 Mobile Development
+|        📱 Mobile Development        |       🏗 Architecture      |
+| :---------------------------------: | :------------------------: |
+| Cross-platform Flutter applications |     Clean Architecture     |
+|       Responsive & adaptive UI      |        Bloc / Cubit        |
+|         Advanced animations         | Scalable project structure |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### 🧠 Architecture & State Management
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dart" />
-</p>
-
-`Clean Architecture` • `Bloc` • `Cubit` • `MVVM` • `Repository Pattern` • `Dependency Injection`
-
-### 🔥 Backend & Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase" />
-</p>
-
-`Firebase Authentication` • `Cloud Firestore` • `Firebase Storage` • `Firebase Messaging` • `REST APIs` • `Socket.IO`
-
-### 🛠️ Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman,figma" />
-</p>
-
-### 🗺️ Other Technologies
-
-`Google Maps` • `Geolocation` • `Push Notifications` • `Deep Linking` • `Localization` • `Responsive UI` • `API Integration` • `Real-time Communication`
+|     🔥 Backend Integration     |     ⚡ Real-Time    |
+| :----------------------------: | :----------------: |
+|      Firebase & REST APIs      |      Socket.IO     |
+| Authentication & Notifications | Live communication |
+|         Cloud services         | Real-time tracking |
 
 ---
 
-# 🚀 Featured Projects
+## Tech Stack
 
-### 🪪 Plan A — Visa Management Platform
+### Mobile
 
-A modern mobile application designed to simplify visa-related services and management.
+`Flutter` `Dart`
 
-**Tech:** Flutter • Dart • REST APIs • Firebase • Bloc/Cubit
+### Architecture & State
 
----
+`Clean Architecture` `Bloc` `Cubit` `Repository Pattern` `Dependency Injection`
 
-### 🚚 Tow Truck — Roadside Assistance Platform
+### Backend & Services
 
-A complete roadside assistance ecosystem connecting customers with tow truck drivers.
+`Firebase` `REST APIs` `Socket.IO` `Push Notifications`
 
-**Features include:**
+### Maps & Integrations
 
-* 📍 Real-time location tracking
-* 🗺️ Google Maps integration
-* 🚚 Driver management
-* 💬 Real-time chat
-* 💰 Service & pricing management
-* 🔔 Push notifications
-* ⚡ Real-time communication with Socket.IO
+`Google Maps` `Geolocation` `Deep Linking` `Localization`
 
-**Tech:** Flutter • Bloc/Cubit • Google Maps • Socket.IO • REST APIs • Firebase
+### Tools
+
+`Git` `GitHub` `VS Code` `Android Studio` `Postman` `Figma`
 
 ---
 
-### 🛍️ Aswaq — Marketing Platform
+# Featured Projects
 
-A mobile marketing platform focused on connecting users with products, services, and promotional content.
+### 🪪 Plan A
 
-**Tech:** Flutter • Firebase • REST APIs • Bloc/Cubit
+**Visa Management Platform**
+
+A modern mobile application designed to simplify visa services and management.
+
+`Flutter` `Dart` `REST API` `Firebase` `Bloc`
 
 ---
 
-### 🧒 Hemtna — Children Therapy Platform
+### 🚚 Tow Truck
 
-A specialized platform connecting children and doctors while providing tools for therapy management and communication.
+**Roadside Assistance Platform**
 
-**Tech:** Flutter • Firebase • REST APIs • Socket.IO • Notifications
+A complete roadside assistance solution connecting customers with drivers through real-time services.
+
+**Highlights**
+
+* Real-time location tracking
+* Google Maps integration
+* Driver management
+* Real-time chat
+* Push notifications
+* Service & pricing management
+
+`Flutter` `Bloc/Cubit` `Google Maps` `Socket.IO` `Firebase`
+
+---
+
+### 🛍️ Aswaq
+
+**Marketing Platform**
+
+A mobile platform designed for discovering products, services and promotional content.
+
+`Flutter` `Firebase` `REST API` `Bloc`
+
+---
+
+### 🧒 Hemtna
+
+**Children Therapy Platform**
+
+A platform connecting children and doctors with communication and therapy management features.
+
+`Flutter` `Firebase` `Socket.IO` `REST API`
 
 ---
 
 ### 🚗 Saudi Transport
 
-A mobile application developed around transportation and vehicle-related services.
+**Transportation & Vehicle Services**
 
-**Tech:** Flutter • REST APIs • Google Maps • Firebase • Clean Architecture
+A mobile application built around transportation and vehicle-related services.
+
+`Flutter` `Google Maps` `REST API` `Firebase`
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedRomana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRomana&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedRomana&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=42A5F5&icon_color=42A5F5&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRomana&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=42A5F5&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohamedRomana&hide_border=true&background=0D1117&ring=42A5F5&fire=FF6B35&currStreakLabel=42A5F5&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedRomana&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRomana&bg_color=0D1117&color=FFFFFF&line=42A5F5&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# Let's Build Something
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedRomana&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedRomana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
-
-# 💻 What I Build
-
-```text
-Mobile Applications
-        │
-        ├── 🎨 Modern UI / UX
-        │
-        ├── 🏗️ Clean Architecture
-        │
-        ├── ⚡ Bloc / Cubit
-        │
-        ├── 🔥 Firebase
-        │
-        ├── 🌐 REST APIs
-        │
-        ├── 💬 Socket.IO
-        │
-        ├── 📍 Google Maps
-        │
-        ├── 🔔 Push Notifications
-        │
-        ├── 🤖 AI Integration
-        │
-        └── 🚀 App Store Deployment
-```
-
----
-
-# 🌱 Currently Exploring
-
-* 🤖 AI Integration in Mobile Applications
-* 🏗️ Advanced Flutter Architecture
-* ⚡ Performance Optimization
-* ☁️ Scalable Backend Integration
-* 🔄 Real-time Applications
-* 🎨 Advanced Flutter Animations
-* 🚀 Production-level Mobile Development
-
----
-
-# 💬 Developer Philosophy
-
-> **"Great apps aren't just built to work — they're built to feel right."**
-
-I believe a great mobile application should be:
-
-**Fast ⚡ • Beautiful 🎨 • Scalable 🏗️ • Reliable 🔥 • Easy to Maintain 🧩**
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohamedRomana/MohamedRomana/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/MohamedRomana">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⭐ If you find my projects useful, consider giving them a star!
-
-### 🚀 Thanks for visiting my profile!
-
+  <strong>Have an idea, project or opportunity?</strong>
+  <br/>
+  I'd love to hear about it.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=100&section=footer"/>
+  <a href="https://github.com/MohamedRomana">GitHub</a>
+  &nbsp; • &nbsp;
+  <a href="#">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ and Flutter mindset.</sub>
 </p>
